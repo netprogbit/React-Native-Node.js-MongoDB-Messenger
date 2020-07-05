@@ -1,3 +1,5 @@
+Install MongoDB Database.
+
 The client and server projects needs to install node modules (npm install).
 
 Register at least two users and exchange messages.
