@@ -1,0 +1,4 @@
+## Ignore files
+
+# React Native or Node.js packages
+node_modules/
