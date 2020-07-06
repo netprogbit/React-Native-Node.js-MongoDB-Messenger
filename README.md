@@ -16,6 +16,6 @@
 * MongoDB;
 * JWT protected routes;
 * Socket.IO;
-* Global exeption error handling;
+* Global error handling;
 * Log4js;
 * etc.
